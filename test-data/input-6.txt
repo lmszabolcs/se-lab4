@@ -1,0 +1,4 @@
+# Create a ship with 2 torpedo in secondary store.
+GT4500,0,0,2,0
+TORPEDO,SINGLE 
+TORPEDO,SINGLE
