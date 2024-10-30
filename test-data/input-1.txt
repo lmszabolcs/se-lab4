@@ -1,0 +1,4 @@
+# Create a ship with 1 one topedo is each store
+GT4500,1,0,1,0
+TORPEDO,SINGLE # should have fired from primary store 
+TORPEDO,SINGLE # should have fired from secondary store
